@@ -1,0 +1,6 @@
+node_modules/
+web-ext-artifacts/
+*.zip
+demo.html
+screenshot*.png
+!store-assets/screenshot*.png
